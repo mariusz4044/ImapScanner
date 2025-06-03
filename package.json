@@ -1,0 +1,19 @@
+{
+  "name": "imapscanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ImapScanner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mariusz4044/ImapScanner.git"
+  },
+  "private": true,
+  "dependencies": {
+    "imapflow": "^1.0.187",
+    "mailparser": "^3.7.3",
+    "node-html-parser": "^7.0.1"
+  }
+}
